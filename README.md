@@ -1,1 +1,1 @@
-This is the SQL code for a Flu Shots visualization dashboard in Tableau Public. I use SQL to retrieve the data of  patients who received Flu shots from an Healthcare systems database for the year 2022. I then upload the generated table into Tableau where I create a visualizations dashboard. 
+
